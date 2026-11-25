@@ -1,0 +1,6 @@
+# Synthetic policy example; not a vendor recommendation.
+approved_versions:
+  C9300:
+    - "17.12.4"
+  C9500:
+    - "17.12.4"

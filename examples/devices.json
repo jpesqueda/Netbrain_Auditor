@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "id": "lab-1",
+      "name": "LAB-SW-01",
+      "mgmtIP": "192.0.2.10",
+      "subTypeName": "Cisco Switch",
+      "vendor": "Cisco",
+      "model": "C9300-48P",
+      "ver": "17.12.4",
+      "sn": "LAB-0001",
+      "site": "LAB-SITE-A",
+      "lDiscoveryTime": "2026-11-24T00:00:00Z"
+    },
+    {
+      "id": "lab-2",
+      "name": "LAB-SW-02",
+      "mgmtIP": "192.0.2.11",
+      "subTypeName": "Cisco Switch",
+      "vendor": "Cisco",
+      "model": "C9300-48P",
+      "ver": "17.09.05",
+      "sn": "LAB-0002",
+      "site": "Unassigned",
+      "lDiscoveryTime": "2020-01-01T00:00:00Z"
+    },
+    {
+      "id": "lab-3",
+      "name": "LAB-SW-03",
+      "mgmtIP": "192.0.2.11",
+      "subTypeName": "Cisco Switch",
+      "vendor": "Cisco",
+      "model": "C9500-48Y4C",
+      "ver": "17.12.4",
+      "site": "LAB-SITE-B"
+    }
+  ],
+  "statusCode": 790200,
+  "totalResultCount": 3
+}
